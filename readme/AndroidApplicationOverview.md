@@ -64,3 +64,13 @@ Press the READ TAG button and wait until the next screen appears.
 Once the read information is confirmed, press the ADD BLOCKCHAIN button at the bottom.
 
 <img src="./images/add-blockchain.png" width="220px">
+
+---
+
+### Reference
+
+This prototype system was developed from the following sources.
+
+Communication between Android smartphone and NFC card : https://github.com/ikarus23/MifareClassicTool
+
+Login system using Microsoft SQL Server : https://www.youtube.com/watch?v=MnmEXqfV5BU&t=500s
