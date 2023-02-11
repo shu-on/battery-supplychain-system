@@ -4,13 +4,13 @@ This is a prototype application development of my proposed EV battery supply cha
 
 ### Overview
 
-- This diagram shows an overview of this prototype system.
+This diagram shows an overview of this prototype system.
 
 <img src="./readme-image/prototype-overview.png">
 
-- User IDs and passwords are centrally managed by a management organization (e.g. car manufacturer) and inquired when necessary (cannot be changed or added arbitrarily).
+This is the system flow at this time.
 
-- If the ID or password is incorrect, a warning will be displayed.
+1. Using the Arduino as a battery management system, the temperature sensor values and pre-set battery information are combined and written to the NFC card.
 
 ![login1](./ReadmeImages/Login1.png)
 
