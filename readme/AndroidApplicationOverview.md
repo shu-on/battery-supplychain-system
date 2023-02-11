@@ -45,7 +45,7 @@ This login system uses Microsoft SQL Server.
 
 ### Read Fragment
 
-Check the notes in this fragment. When ready, press the Read button.
+Check the notes in this fragment. When ready, press the START READ button.
 
 <img src="./images/read-fragment.jpg" width="220px">
 
@@ -55,12 +55,12 @@ You will then be taken to a screen with a cute dog moving.
 
 Bring the NFC card and device closer together until they are recognized.
 
-Press the Read start button and wait until the next screen appears.
+Press the READ TAG button and wait until the next screen appears.
 
 <img src="./images/read-nfc.jpg" width="220px">
 
 ### Adding to the blockchain
 
-Once the read information is confirmed, press the Add button at the bottom.
+Once the read information is confirmed, press the ADD BLOCKCHAIN button at the bottom.
 
 <img src="./images/add-blockchain.png" width="220px">
