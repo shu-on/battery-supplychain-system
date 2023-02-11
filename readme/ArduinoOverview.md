@@ -21,7 +21,7 @@ Here is an overview of Arduino and NFC.
 
 This image shows the value set for this time.
 
-<img src="./images/battery-info.png" width="220px">
+<img src="./images/battery-info.png" width="360px">
 
 ### Editing Sector Trailers
 
