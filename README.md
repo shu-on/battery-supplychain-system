@@ -1,12 +1,10 @@
-## Battery Electric Vehicle Supply Chain Management System (BEVSCMS) application prototype
+## Prototype application of EV battery supply chain system
 
-This is a prototype development of Supply chain management system application for EV batteries including recycling.
+This is a prototype application development of my proposed EV battery supply chain system.
 
-This application is developed in NetbeansIDE using Java.
+### Overview
 
-### 1.Function
-
-- Transition from the splash window (temporary loading view) to the login window.
+- This diagram shows an overview of this prototype system.
 
 <img src="./ReadmeImages/Splash.png" width="320px">
 
