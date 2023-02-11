@@ -6,7 +6,7 @@ This is a prototype application development of my proposed EV battery supply cha
 
 This diagram shows an overview of this prototype system.
 
-![prototype-overview](./readme-image/prototype-overview.png)
+![prototype-overview](./readme/images/prototype-overview.png)
 
 This is the system flow at this time.
 
@@ -18,7 +18,7 @@ This is the system flow at this time.
 
 Each of the following overviews describes this prototype system in more detail.
 
-[Android application overview](./AndroidApplicationOverview.md)
+[Android application overview](./readme/AndroidApplicationOverview.md)
 
-[Arduino overview](./ArduinoOverview.md)
+[Arduino overview](./readme/ArduinoOverview.md)
 
