@@ -9,6 +9,14 @@ Here is an overview of Arduino and NFC.
 - [Memory dump](#memory-dump)
 - [Initialization to factory defaults](#initialization-to-factory-defaults)
 
+### Hardware used
+
+- Arduino
+- DHT11 (Temperature/Humidity Sensor Module)
+- PN532 (NFC Module)
+  - SPI,HSU,I2C
+- Mifare Classic Card 1K
+
 ---
 
 ### Acquisition of sensor information and writing to NFC card
