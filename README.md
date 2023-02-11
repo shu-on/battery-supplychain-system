@@ -19,5 +19,6 @@ This is the system flow at this time.
 The following link provides a more detailed explanation.
 
 [Android application overview](./AndroidApplicationOverview.md)
+
 [Arduino overview](./ArduinoOverview.md)
 
