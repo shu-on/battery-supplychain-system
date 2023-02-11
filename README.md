@@ -16,7 +16,7 @@ This is the system flow at this time.
 
 3. The information read is added to the blockchain.
 
-The following link provides a more detailed explanation.
+Each of the following overviews describes this prototype system in more detail.
 
 [Android application overview](./AndroidApplicationOverview.md)
 
