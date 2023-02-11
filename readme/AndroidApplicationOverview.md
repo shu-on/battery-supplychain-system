@@ -71,6 +71,6 @@ Once the read information is confirmed, press the ADD BLOCKCHAIN button at the b
 
 This prototype system was developed from the following sources.
 
-Communication between Android smartphone and NFC card : https://github.com/ikarus23/MifareClassicTool
+Communication between Android smartphone and NFC card : [This Source code](https://github.com/ikarus23/MifareClassicTool)
 
-Login system using Microsoft SQL Server : https://www.youtube.com/watch?v=MnmEXqfV5BU&t=500s
+Login system using Microsoft SQL Server : [This video](https://www.youtube.com/watch?v=MnmEXqfV5BU&t=500s)
