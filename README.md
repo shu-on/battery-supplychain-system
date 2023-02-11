@@ -16,7 +16,8 @@ This is the system flow at this time.
 
 3. The information read is added to the blockchain.
 
-[Android application overview](./AndroidApplicationOverview.md)
+The following link provides a more detailed explanation.
 
+[Android application overview](./AndroidApplicationOverview.md)
 [Arduino overview](./ArduinoOverview.md)
 
