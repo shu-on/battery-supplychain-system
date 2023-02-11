@@ -6,7 +6,7 @@ This is a prototype application development of my proposed EV battery supply cha
 
 - This diagram shows an overview of this prototype system.
 
-<img src="./ReadmeImages/Splash.png" width="320px">
+<img src="./readme-image/prototype-overview.png" width="320px">
 
 - User IDs and passwords are centrally managed by a management organization (e.g. car manufacturer) and inquired when necessary (cannot be changed or added arbitrarily).
 
