@@ -134,7 +134,6 @@ public class TransactionBC extends AppCompatActivity {
         });
     }
 
-
     public static void main(final String[] args) throws CommitException, GatewayException, InterruptedException {
         Reader certReader = Files.newBufferedReader(certificatePath);
         X509Certificate certificate = Identities.readX509Certificate(certReader);
@@ -346,3 +345,5 @@ class ResultOfMakePurchase {
     TransactionResult result;
     String error;
 }
+
+
