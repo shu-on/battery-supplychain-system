@@ -8,6 +8,11 @@ This section describes the application under development.
 - [Reading from NFC cards](#read-fragment)
 - [Adding to the blockchain](#adding-to-the-blockchain)
 
+### Future Development
+
+- [Marketplace](#marketplace)
+- [Browse past battery information](#browse-past-battery-information)
+
 ---
 
 ### Login
@@ -64,6 +69,14 @@ Press the READ TAG button and wait until the next screen appears.
 Once the read information is confirmed, press the ADD BLOCKCHAIN button at the bottom.
 
 <img src="./images/add-blockchain.png" width="220px">
+
+### Marketplace
+
+<img src="./images/marketplace.png" width="220px">
+
+### Browse past battery information
+
+<img src="./images/browse-battery.png" width="220px">
 
 ---
 
