@@ -8,4 +8,4 @@ Q : What is your proposed supply chain system?
 
 A : It is a blockchain-based EV battery supply chain system. The figure below is an overview.
 
-<img src="./images/bscoverview.png" width="360px">
+<img src="./images/bsc-overview.png" width="360px">
