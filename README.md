@@ -2,6 +2,10 @@
 
 This is a prototype application development of my proposed EV battery supply chain system.
 
+You can check the following link why I created this system.
+
+[The purpose of this system](./readme/Purpose.md)
+
 ### Overview
 
 This diagram shows an overview of this prototype system.
